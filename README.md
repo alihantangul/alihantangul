@@ -75,7 +75,7 @@ End-to-end e-commerce business analysis focused on revenue growth, customer beha
 
 Customer analytics dashboard focused on revenue growth, churn, retention, average order value, repeat customer rate, customer segmentation, and product-category performance.
 
-🔗 [View Project]([https://github.com/alihantangul/olist-ecommerce-business-insights](https://github.com/alihantangul/the-look-power-bi-customer-analytics))
+🔗 [View Project](https://github.com/alihantangul/olist-ecommerce-business-insights](https://github.com/alihantangul/the-look-power-bi-customer-analytics)
 
 ---
 
