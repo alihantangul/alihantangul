@@ -85,7 +85,7 @@ Customer analytics dashboard focused on revenue growth, churn, retention, averag
 
 Market analytics dashboard exploring pricing, availability, room types, listing behavior, and location-based market differences.
 
-**Coming soon to GitHub.**
+🔗 [View Project](https://github.com/alihantangul/airbnb-looker-studio-host-performance)
 
 ---
 
